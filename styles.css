@@ -36,3 +36,11 @@
 button:hover {
   cursor: pointer;
 }
+#editable {
+  border: none;
+  outline: none;
+  padding: 10px 0px;
+  background-color: transparent;
+  color: black;
+  font-weight: bolder;
+}
